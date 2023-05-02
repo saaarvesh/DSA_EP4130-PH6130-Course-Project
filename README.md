@@ -23,10 +23,11 @@ The Netflix Prize was a competition launched by the online streaming company Net
 ### Data Overview 
 > Get the data from : https://www.kaggle.com/netflix-inc/netflix-prize-data/data
 
+### IPynb File
+[![IPYNB](https://img.shields.io/static/v1.svg?label=IPYNB&message=Movie&color=lightgray&logo=linkedin&style=social&colorA=critical)](https://github.com/saaarvesh/DSA_EP4130-PH6130-Course-Project/blob/main/DSA.ipynb) 
 
 ### Project Reports
-
-[![report](https://img.shields.io/static/v1.svg?label=Project&message=Report&logo=microsoft-word&style=social)](https://github.com/iamsivab/Movie-Recommendation-Netflix/)
+[![report](https://img.shields.io/static/v1.svg?label=Project&message=Report&logo=microsoft-word&style=social)](https://github.com/saaarvesh/DSA_EP4130-PH6130-Course-Project/blob/main/EP4130_PH6130_Report.pdf)
 
 ### Reference
 For implementation we have taken inspiration from many references, 
@@ -43,7 +44,7 @@ For implementation we have taken inspiration from many references,
 <li><a href="https://www.kaggle.com/datasets/netflix-inc/netflix-prize-data/code">Kaggle Netflix challenge link</a></li>
 </ul>
 
-[![IPYNB](https://img.shields.io/static/v1.svg?label=IPYNB&message=Movie&color=lightgray&logo=linkedin&style=social&colorA=critical)](https://www.linkedin.com/in/iamsivab/) [![GitHub top language](https://img.shields.io/github/languages/top/iamsivab/Movie-Recommendation-Netflix.svg?logo=php&style=social)](https://github.com/iamsivab/)
+
 
 
 
