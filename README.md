@@ -3,7 +3,15 @@
 
 [![Hits](https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https%3A%2F%2Fgithub.com%2Fsaaarvesh%2FDSA_EP4130-PH6130-Course-Project&count_bg=%2379C83D&title_bg=%23555555&icon=&icon_color=%23E7E7E7&title=hits&edge_flat=false)](https://hits.seeyoufarm.com)
 
+### Authors - 
+*   Sarveshkumar Purohit \
+    AI22MTECH14006 \
+    MTech AI ,Department Of AI, IIT Hyderabad
 
+*   Soumyanetra Pal \
+    AI22MTECH14005 \
+    MTech AI ,Department Of AI, IIT Hyderabad
+    
 #### The goal of this project is to study the approched used by the winner of the Netflix prize challange.
 
 ### ABSTRACT  
