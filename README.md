@@ -30,7 +30,7 @@ The Netflix Prize was a competition launched by the online streaming company Net
 [![report](https://img.shields.io/static/v1.svg?label=Project&message=Report&logo=microsoft-word&style=social)](https://github.com/saaarvesh/DSA_EP4130-PH6130-Course-Project/blob/main/EP4130_PH6130_Report.pdf)
 
 ### Reference
-For implementation we have taken inspiration from many references, 
+For implementation we have taken inspiration from below mentioned references, 
 
 <ul>
 <li> <a href="https://towardsdatascience.com/the-netflix-prize-how-even-ai-leaders-can-trip-up-5c1f38e95c9f">The Netflix Prize — How Even AI Leaders Can Trip Up</a></li>
