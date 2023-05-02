@@ -2,7 +2,9 @@
 # Complete End to End study of Recommendation System
 
 [![Hits](https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https%3A%2F%2Fgithub.com%2Fsaaarvesh%2FDSA_EP4130-PH6130-Course-Project&count_bg=%2379C83D&title_bg=%23555555&icon=&icon_color=%23E7E7E7&title=hits&edge_flat=false)](https://hits.seeyoufarm.com)
-
+[![Python 3.6](https://img.shields.io/badge/python-3.11-blue.svg)](https://www.python.org/downloads/)
+[![Surprise-A Python scikit for recommender systems.](https://img.shields.io/badge/Surprise-green.svg)](https://surpriselib.com/)
+[![XGBoost Documentation](https://img.shields.io/badge/XGBoost-yellow.svg)](https://xgboost.readthedocs.io/en/stable/)
 ### Authors - 
 *   Sarveshkumar Purohit \
     AI22MTECH14006 \
@@ -25,9 +27,6 @@ The Netflix Prize was a competition launched by the online streaming company Net
 ### Project Reports
 
 [![report](https://img.shields.io/static/v1.svg?label=Project&message=Report&logo=microsoft-word&style=social)](https://github.com/iamsivab/Movie-Recommendation-Netflix/)
-
-- [Download](https://github.com/iamsivab/Movie-Recommendation-Netflix/) for the report.
-
 
 ### Reference
 For implementation we have taken inspiration from many references, 
