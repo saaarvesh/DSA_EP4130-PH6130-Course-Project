@@ -44,10 +44,6 @@ For implementation, we have taken inspiration from below mentioned references,
 <li><a href="https://www.kaggle.com/datasets/netflix-inc/netflix-prize-data/code">Kaggle Netflix challenge link</a></li>
 </ul>
 
-
-
-
-
  
 
 
