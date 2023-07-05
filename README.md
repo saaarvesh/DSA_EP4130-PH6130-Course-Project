@@ -20,8 +20,8 @@
 The Netflix Prize was a competition launched by the online streaming company Netflix in 2006, offering a grand prize of 1 million dollars to any individual or team that could improve the accuracy of its movie recommendation algorithm by at least 10%. A team of computer engineers from AT&T Labs won the grand prize by reducing the RMSE loss from 0.9525 (A loss reported by Netfix's Recommender Algorithm called CineMatch) to 0.8572. The Netflix Prize challenge helped to drive advances in machine learning and collaborative filtering(CF) techniques. As the Netflix Prize competition has demonstrated, matrix factorization models are superior to classic nearest-neighbor techniques for producing product recommendations, allowing the incorporation of additional information such as implicit feedback, temporal effects, and confidence levels. In this project, we aim to study the paper published by the winning team of AT&T Labs in the IEEE Computer Society. The Part of the machine learning algorithm suggested by the winning team in this paper is still used by Netflix in the production server.
 
 
-### Data Overview 
-> Get the data from: https://www.kaggle.com/netflix-inc/netflix-prize-data/data
+### DataSet Can be found at 
+[![Kaggle](https://img.shields.io/badge/Kaggle-035a7d?style=for-the-badge&logo=kaggle&logoColor=white)](https://www.kaggle.com/netflix-inc/netflix-prize-data/data)
 
 ### IPynb File
 [![IPYNB](https://img.shields.io/badge/Colab-F9AB00?style=for-the-badge&logo=googlecolab&color=525252)](https://github.com/saaarvesh/DSA_EP4130-PH6130-Course-Project/blob/main/DSA.ipynb) 
