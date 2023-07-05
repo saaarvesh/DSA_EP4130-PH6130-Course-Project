@@ -24,7 +24,7 @@ The Netflix Prize was a competition launched by the online streaming company Net
 > Get the data from: https://www.kaggle.com/netflix-inc/netflix-prize-data/data
 
 ### IPynb File
-[![IPYNB](https://img.shields.io/static/v1.svg?label=IPYNB&message=Movie&color=lightgray&logo=linkedin&style=social&colorA=critical)](https://github.com/saaarvesh/DSA_EP4130-PH6130-Course-Project/blob/main/DSA.ipynb) 
+[![IPYNB](https://img.shields.io/badge/Colab-F9AB00?style=for-the-badge&logo=googlecolab&color=525252)](https://github.com/saaarvesh/DSA_EP4130-PH6130-Course-Project/blob/main/DSA.ipynb) 
 
 ### Project Reports
 [![report](https://img.shields.io/static/v1.svg?label=Project&message=Report&logo=microsoft-word&style=social)](https://github.com/saaarvesh/DSA_EP4130-PH6130-Course-Project/blob/main/EP4130_PH6130_Report.pdf)
